@@ -1,0 +1,20 @@
+.carousel .thumbs {
+  display: none;
+}
+.box-3{
+  flex-direction: column;
+  margin: 80px;
+}
+.min-box-4{
+  border-top: #8a8f98;
+  border-top-style: solid;
+  border-top-width: 0.1px;
+}
+.color-text {
+  color: #8A24FF;
+}
+.inner-text {
+  font-size: 5.75rem;
+  font-weight: 700;
+  padding: 60px 20px 40px 0px;
+}

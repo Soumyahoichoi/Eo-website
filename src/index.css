@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Varela+Round&display=swap');
+
+body {
+  background-color: #070707 ;
+  font-family: 'Inter', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Inter', sans-serif;
+}
+
+@media only screen and (max-width: 480px) {
+  body {
+    min-width: 1080px;
+  }
+}

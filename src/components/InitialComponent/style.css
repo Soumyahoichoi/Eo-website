@@ -1,0 +1,38 @@
+.container-box{
+  display: flex;
+  color: #ffffff;
+}
+.box-1{
+  display: flex;
+  margin: 160px 40px 160px 50px;
+  padding: 20px;
+  flex-direction: column;
+  font-weight: 700;
+}
+.main-text{
+  color: #8a8f98;
+  font-size: 8.5rem;
+  padding-bottom: 100px;
+  padding-top: 200px;
+}
+.text{
+  padding-bottom: 80px;
+  font-weight: 700;
+  font-size: 5.5rem;
+  
+}
+.text-1{
+  background: -webkit-linear-gradient(135deg, #2F80ED 0%, #B2FFDA 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.text-2{
+  background: -webkit-linear-gradient(135deg, #6699FF 0%, #FF3366 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.text-3{
+  background: -webkit-linear-gradient(135deg, #FFCC33 0%, #E233FF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
